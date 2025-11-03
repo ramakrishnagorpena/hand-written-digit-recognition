@@ -15,5 +15,3 @@ This project demonstrates the complete pipeline of an AI web application:
    A simple web interface where users can draw digits and get predictions in real-time.
 
 ---
-
-## 🧩 Project Structure
